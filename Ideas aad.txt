@@ -1,0 +1,22 @@
+Ideas:
+
+Java + JavaFX
+
+Unique numeric identifier per food item, starting at 1 and increasing. - Identifier used to find food items and also stores all the unique information to that food item - Name, expiry date - name used to figure out how many of same item are in fridge. Each food item has its own unique identifier even if its the same food. Each tomato has a identifier. 
+
+Login system. Username - password. Or User number and passcode. Stored in data base, similar to Java course done in 2nd year. Chefs need access, no servers, head chef special privileges. Maybe data base with all employees in with login information but permission based system. Able to add more and remove users. Drop down menus. pre-set roles.
+
+Simple UI - low input requirements - Only a few taps/clicks to get access to core functions. 
+
+Time and Date tracking for food expiration and auto ordering. 
+
+
+Users:
+
+Servers - Nothing
+
+Chefs - take items from fridge, input items in fridge.
+
+Head chef - take items from fridge, Notifications on expiration and quantities, input items in fridge, Add food types and users
+
+Delivery drivers - input items in fridge, add food types
